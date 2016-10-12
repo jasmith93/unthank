@@ -1,0 +1,13 @@
+body {
+  background-color: white; }
+
+@media only screen and (min-width: 600px) {
+  /* For tablets: */
+  body {
+    background-color: orange; } }
+@media only screen and (min-width: 768px) {
+  /* For desktop: */
+  body {
+    background-color: red; } }
+
+/*# sourceMappingURL=style.css.map */
